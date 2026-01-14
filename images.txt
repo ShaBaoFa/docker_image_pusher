@@ -1,1 +1,1 @@
-1995chen/dnf:centos7-2.1.12
+1995chen/dnf:centos7-latest
